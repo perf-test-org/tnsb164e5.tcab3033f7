@@ -1,2 +1,5 @@
 # tnsb164e5.tcab3033f7
-Bulk test collection tnsb164e5.tcab3033f7 (based on ansible.utils)
+
+Bulk test collection based on `ansible.utils` v6.0.2.
+
+This repo was auto-generated for portal SCM sync testing.
